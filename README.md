@@ -2,6 +2,12 @@
 - 👀 I’m interested in programs, especially Ruby
 - 🌱 I’m currently learning new knowledge 
 - 💞️ I’m looking to collaborate on network
+- 🀄 I'm like to learning Japanese and English
+
+
+
+
+
 
 
 <!---
