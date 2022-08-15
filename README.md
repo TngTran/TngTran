@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TngTran
-- 👀 I’m interested in programs
+- 👀 I’m interested in programs, especially Ruby
 - 🌱 I’m currently learning new knowledge 
 - 💞️ I’m looking to collaborate on network
 
